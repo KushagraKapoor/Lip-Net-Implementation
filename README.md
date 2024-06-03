@@ -23,3 +23,14 @@
 * Tests show LipNet achieves an impressive 95.2% accuracy in converting full sentences from lip movements. This surpasses the abilities of experienced human lipreaders and previous deep learning models.
 
 **LipNet represents a significant leap forward in automatic lipreading, paving the way for new applications that rely on understanding speech without needing audio.**
+
+
+
+
+
+**Reference:** 
+[Assael et al., 2016](https://arxiv.org/abs/1611.01599)
+**Additional Resources:**
+
+* A video tutorial on building a lip reading model with Tensorflow can be found on [YouTube](https://www.youtube.com/watch?v=uKyojQjbx4c&t=359s). In this video, Nicholas Renotte walks viewers through the process step-by-step.
+
